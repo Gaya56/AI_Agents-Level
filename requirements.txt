@@ -1,0 +1,4 @@
+argno
+dotenv
+requests
+pip 
