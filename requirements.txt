@@ -1,0 +1,26 @@
+# Agno AI Agent Framework - Core framework for building AI agents
+agno
+
+# Environment and Configuration
+python-dotenv
+
+# HTTP requests and API calls
+requests
+
+# Vector database for knowledge storage and retrieval
+lancedb
+
+# AI/ML APIs for language models and embeddings
+openai
+anthropic
+
+# Search, ranking, and reranking capabilities
+cohere
+
+# Financial data and analysis tools (for YFinance integration)
+yfinance
+pandas
+numpy
+
+# Web scraping and search tools (DuckDuckGo integration)
+duckduckgo-search
